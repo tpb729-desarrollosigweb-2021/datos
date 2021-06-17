@@ -160,8 +160,6 @@
 { "type": "Feature", "properties": { "id": "154", "Decripcion": "Naciente", "Radio": 60 }, "geometry": { "type": "Point", "coordinates": [ -84.193817820580108, 9.804779872443925 ] } },
 { "type": "Feature", "properties": { "id": "155", "Decripcion": "Naciente", "Radio": 60 }, "geometry": { "type": "Point", "coordinates": [ -84.184742990467839, 9.813990925197318 ] } },
 { "type": "Feature", "properties": { "id": "156", "Decripcion": "Naciente", "Radio": 60 }, "geometry": { "type": "Point", "coordinates": [ -84.184540433260196, 9.812590124463595 ] } },
-{ "type": "Feature", "properties": { "id": "157", "Decripcion": "Naciente", "Radio": 60 }, "geometry": { "type": "Point", "coordinates": [ -84.196461328745301, 9.839400827964436 ] } },
-{ "type": "Feature", "properties": { "id": "158", "Decripcion": "Naciente", "Radio": 60 }, "geometry": null },
-{ "type": "Feature", "properties": { "id": "159", "Decripcion": "Naciente", "Radio": 60 }, "geometry": null }
+{ "type": "Feature", "properties": { "id": "157", "Decripcion": "Naciente", "Radio": 60 }, "geometry": { "type": "Point", "coordinates": [ -84.196461328745301, 9.839400827964436 ] } }
 ]
 }
